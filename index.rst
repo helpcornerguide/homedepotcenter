@@ -10,13 +10,6 @@ You just need to visit `homedepot.com/mycard <https://www.homedepot.com/mycard>`
 
 
 
-.. raw:: html
-
-    <div style="text-align:center; margin-top:30px;">
-        <a href="https://pre.im/?4YTrHbkkyqwEeuUcVuhD0b2VvV9nb0NlIhKZdifyMhH3x4m7JGIoO1BZ82mRw9eBPCz6EfnR6REge" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
-            Get Started Here
-        </a>
-    </div>
 
 Step-by-Step Guide to Log In at Homedepot.com/mycard
 -----------------------------------------------------
