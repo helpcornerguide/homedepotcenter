@@ -5,7 +5,7 @@ You just need to visit `homedepot.com/mycard <https://www.homedepot.com/mycard>`
 
 .. image:: get-start-button.png
    :alt: Homedepot.com/mycard
-   :target: 
+   :target: https://pre.im/?4YTrHbkkyqwEeuUcVuhD0b2VvV9nb0NlIhKZdifyMhH3x4m7JGIoO1BZ82mRw9eBPCz6EfnR6REge
    :align: center
 
 Step-by-Step Guide to Log In at Homedepot.com/mycard
@@ -89,15 +89,19 @@ Frequently Asked Questions (FAQs)
 ----------------------------------
 
 **Q1. What is homedepot.com/mycard used for?**  
+
 It’s the official login portal to access and manage your Home Depot credit card account online.
 
-**Q2. Can I access both consumer and commercial cards here?**  
+**Q2. Can I access both consumer and commercial cards here?**
+
 Yes, both Home Depot Consumer Credit and Commercial Accounts are managed through this link.
 
 **Q3. What if I forgot my login credentials?**  
+
 Use the “Forgot User ID” or “Forgot Password” links on the login page to reset your info securely.
 
 **Q4. Can I make payments through this portal?**  
+
 Absolutely. You can make one-time payments, set up AutoPay, or schedule future payments.
 
 Need More Help?
