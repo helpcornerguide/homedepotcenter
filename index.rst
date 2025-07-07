@@ -8,6 +8,7 @@ You just need to visit `homedepot.com/mycard <https://www.homedepot.com/mycard>`
    :target: https://pre.im/?4YTrHbkkyqwEeuUcVuhD0b2VvV9nb0NlIhKZdifyMhH3x4m7JGIoO1BZ82mRw9eBPCz6EfnR6REge
    :align: center
 
+
 Step-by-Step Guide to Log In at Homedepot.com/mycard
 -----------------------------------------------------
 
